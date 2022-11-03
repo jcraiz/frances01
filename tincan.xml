@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<activities>
+		<activity id="ispring://presentations/AA97FFDA-FC52-468D-B1C2-0029FF181A12" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">frances_juego_01</name>
+			<description lang="und"/>
+			<launch>res/index.html</launch>
+		</activity>
+		<activity id="ispring://presentations/AA97FFDA-FC52-468D-B1C2-0029FF181A12/slides/0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"/>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/AA97FFDA-FC52-468D-B1C2-0029FF181A12/slides/1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"/>
+			<description lang="und"/>
+		</activity>
+		<activity id="ispring://presentations/AA97FFDA-FC52-468D-B1C2-0029FF181A12/slides/2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"/>
+			<description lang="und"/>
+		</activity>
+	</activities>
+</tincan>
